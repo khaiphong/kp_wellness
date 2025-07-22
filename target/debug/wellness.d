@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_wellness/target/debug/wellness: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_wellness/lib/src/lib.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_wellness/wellness/src/main.rs
