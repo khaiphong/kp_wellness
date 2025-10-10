@@ -9,6 +9,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9555578bc9e57714c812a1f84e4fc5b4d21fcb063490c624de019f7464c91268"
 
 [[package]]
+name = "dentistry"
+version = "0.1.0"
+
+[[package]]
+name = "education"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.16"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -18,6 +26,10 @@ dependencies = [
  "libc",
  "wasi",
 ]
+
+[[package]]
+name = "health"
+version = "0.1.0"
 
 [[package]]
 name = "lib"
